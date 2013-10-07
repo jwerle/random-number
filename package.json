@@ -4,7 +4,7 @@
   "description": "Generate a random positive number",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
